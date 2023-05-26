@@ -27,7 +27,7 @@ const ProjectSection = () => {
           {/* Project 1 */}
           <div className="flex flex-col md:flex-row gap-2 md:gap-4">
             {/* Project Image */}
-            <div className="w-full md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[320px] h-[210px] md:h-[280px]">
+            <div className="w-full md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[296px] h-[210px] md:h-[280px]">
               <img
                 src={project1}
                 alt=""
@@ -75,7 +75,7 @@ const ProjectSection = () => {
           {/* Project 2 */}
           <div className="flex flex-col md:flex-row gap-2 md:gap-4">
             {/* Project Image */}
-            <div className="w-full md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[320px] h-[210px] md:h-[280px]">
+            <div className="w-full md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[296px] h-[210px] md:h-[280px]">
               <img
                 src={project2}
                 alt=""
@@ -122,7 +122,7 @@ const ProjectSection = () => {
           {/* Project 3 */}
           <div className="flex flex-col md:flex-row gap-2 md:gap-4">
             {/* Project Image */}
-            <div className="md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[320px] h-[210px] md:h-[280px]">
+            <div className="md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[296px] h-[210px] md:h-[280px]">
               <img
                 src={project3}
                 alt=""
@@ -169,7 +169,7 @@ const ProjectSection = () => {
           {/* Project 4 */}
           <div className="flex flex-col md:flex-row gap-2 md:gap-4">
             {/* Project Image */}
-            <div className="w-full md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[320px] h-[210px] md:h-[280px]">
+            <div className="w-full md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[296px] h-[210px] md:h-[280px]">
               <img
                 src={project4}
                 alt=""
@@ -214,7 +214,7 @@ const ProjectSection = () => {
           {/* Project 5 */}
           <div className="flex flex-col md:flex-row gap-2 md:gap-4">
             {/* Project Image */}
-            <div className="w-full md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[320px] h-[210px] md:h-[280px]">
+            <div className="w-full md:w-3/5 border-2 hover:drop-shadow-[7px_7px_#84fc84] transition-all min-w-[296px] h-[210px] md:h-[280px]">
               <img
                 src={project5}
                 alt=""
