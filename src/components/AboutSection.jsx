@@ -31,7 +31,9 @@ const AboutSection = () => {
                 Contact
               </a>
               <a
-                href="#"
+                href="https://docs.google.com/document/d/1xapeK9xG_66ukife3QNoHmHB6fDh9g2w/edit?usp=share_link&ouid=116995472747169890715&rtpof=true&sd=true"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-primary p-2 border-2 hover:bg-secondary hover:drop-shadow-[5px_5px_black] transition-all"
               >
                 Resume
