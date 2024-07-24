@@ -9,10 +9,10 @@ import {
   SiReact,
   SiTailwindcss,
 } from 'react-icons/si';
-import project2 from '../assets/bad_quotes_screenshot.png';
 import project1 from '../assets/cinepedia_landing_page_screenshot.png';
 import project5 from '../assets/insightsaham_screenshot.png';
 import project4 from '../assets/rebike.png';
+import project2 from '../assets/transmedia-career.png';
 import project3 from '../assets/wawancaraAI_screenshot.png';
 
 const ProjectSection = () => {
@@ -86,19 +86,20 @@ const ProjectSection = () => {
             {/* Project Description */}
             <div className="flex flex-col flex-1 gap-y-4 md:gap-y-4">
               <a
-                href="https://bad-quotes.netlify.app/"
+                href="https://play.google.com/store/apps/details?id=com.karirtranstv"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <h1 className="font-fredoka md:font-bold underline hover:text-primary text-2xl">
-                  Bad Quotes
+                  TRANSMEDIA Career
                 </h1>
               </a>
 
               <div>
                 <p>
-                  Get a daily dose of Breaking Bad quotes from your favorite
-                  characters.
+                  A mobile app that connecting talented individuals with
+                  exciting career opportunities exclusively within the
+                  TRANSMEDIA company.
                 </p>
               </div>
 
@@ -109,11 +110,7 @@ const ProjectSection = () => {
                 </div>
                 <div className="flex flex-row items-center gap-1">
                   <SiReact />
-                  React
-                </div>
-                <div className="flex flex-row items-center gap-1">
-                  <SiTailwindcss />
-                  tailwind
+                  React Native
                 </div>
               </div>
             </div>
@@ -133,7 +130,7 @@ const ProjectSection = () => {
             {/* Project Description */}
             <div className="flex flex-col flex-1 gap-y-4 md:gap-y-4">
               <a
-                href="https://cinepedia-list.netlify.app/"
+                href="https://github.com/mercyano/wawancara-ai"
                 target="_blank"
                 rel="noopener noreferrer"
               >
