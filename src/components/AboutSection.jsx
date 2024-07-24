@@ -15,11 +15,13 @@ const AboutSection = () => {
               Hi! I&#39;m{' '}
               <span className="text-primary font-bold">Mercyano</span>
             </h1>
+            <p>Web | Mobile | Artificial Intelligence</p>
             <p>
-              I&#39;m a fast learner and tech enthusiast experienced with
-              various tech stacks. Currently, my passions lie in web development
-              and machine learning. I&#39;m actively seeking job opportunities
-              to contribute my skills and passion to innovative teams.
+              I&#39;m a web and mobile developer with expertise in artificial
+              intelligence. I&#39;m eager to collaborate with prospective
+              clients on innovative projects, leveraging my diverse skills to
+              create cutting-edge solutions. Feel free to contact me to discuss
+              your software needs.
             </p>
 
             {/* Button */}
